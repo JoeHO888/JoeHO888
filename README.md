@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/joe-ho-0260758a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joe-ho-0260758a" height="30" width="40" /></a>
 <a href="https://joeho.xyz" target="blank"><img align="center" src="https://joeho.xyz/favicon-32x32.png" alt="joeho888" height="30" width="40" /></a>
 <a href="https://dev.to/joeho888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joeho888" height="30" width="40" /></a>
-<a href="https://medium.com/joeho-15265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="joeho-15265" height="30" width="40" /></a>
+<a href="https://medium.com/@joeho-15265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joeho-15265" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
